@@ -2,7 +2,7 @@
 
 Notes and exercises from "The Go Programming Language" by Alan A. A. Donovan &amp; Brian W. Kernighan
 
-# The origin of Go 
+# The origins of Go 
 
 - Golang was developed because of (multiplicative) complexivity of Google software.
 - It was influenced by Algol, Pascal, Modula, Oberon, Squeak, C and others.
@@ -20,7 +20,7 @@ Notes and exercises from "The Go Programming Language" by Alan A. A. Donovan &am
 - `goimports` is like gofmt for but imports...
 
 
-## 2.2 CLI args
+## 1.2 CLI args
 
 "Most of programs process some input to generate some output"
 
@@ -44,3 +44,4 @@ Most of the time use `1` when default value matters and `2` if it doesn't
 
 Also `strings.Join()` is usefull if you need to... join strings.
 
+# 
