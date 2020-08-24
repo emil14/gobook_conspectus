@@ -1,4 +1,4 @@
-# gobook_conspectus
+# GOPL
 
 Notes and exercises from "The Go Programming Language" by Alan A. A. Donovan &amp; Brian W. Kernighan
 
@@ -44,4 +44,3 @@ Most of the time use `1` when default value matters and `2` if it doesn't
 
 Also `strings.Join()` is usefull if you need to... join strings.
 
-# 
